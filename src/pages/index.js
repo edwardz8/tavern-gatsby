@@ -50,9 +50,9 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Tavern builds a wide range of production apps built with the latest and most reliable technologies to get your business ahead of the curve.</p>
+        <p>Tavern constructs a wide range of production apps built with the latest and most reliable technologies for you and your customers and will propel your business, leaving your competitors out in the cold.</p>
         <p>
-          We work with you every step of the way, from UI Design, branding, and complete, dynamic, customer-friendly TVos, Smart Watch and Mobile Apps to deployment and continued maintenance.  
+          We work with you every step of the way. From UI Design, branding, and complete, dynamic, customer-friendly TVos, Smart Watch and Mobile Apps to deployment and continued maintenance.  
         </p>
         <p>Get in touch to learn more!</p>
         <Link to="/blog/">

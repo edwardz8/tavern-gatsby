@@ -11,7 +11,6 @@ export default () => (
   >
     <Particles
       // Add window resize logic if required
-      height={window.outerHeight}
       params={{
         particles: {
           number: {

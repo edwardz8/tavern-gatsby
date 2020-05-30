@@ -69,7 +69,7 @@ class Layout extends React.Component {
         <Footer>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a>Gatsby</a>
+          Gatsby
           <p>taverndevhouse@gmail.com</p>
         </Footer>
       </Wrapper>

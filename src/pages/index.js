@@ -33,7 +33,7 @@ class IndexPage extends React.Component {
         <div style={{textAlign: "center", marginTop: "20rem"}}>
         <h1 style={{color: "white", fontSize: "64px"}}>Tavern</h1>
         <p style={{color: "white", fontSize: "24px", margin: "0 auto", width: "50%"}}>
-          A Software Development Production House focused in React Native
+          A Software Development Production House focused in <a href="https://reactnative.dev/" target="_blank" style={{color: "dodgerblue"}}>React Native</a>
         </p>
         </div>
       </div>

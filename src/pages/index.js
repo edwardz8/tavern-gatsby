@@ -14,7 +14,7 @@ class IndexPage extends React.Component {
       <div
       style={{
         width: "100%",
-        height: "100%",
+        height: "100vh",
         margin: "0",
         padding: "0"
       }}
@@ -26,13 +26,14 @@ class IndexPage extends React.Component {
           top: 0,
           left: 0,
           width: "100%",
-          height: "100%"
+          height: "100vh",
+          marginBottom: "20px"
         }}
       >
         <div style={{textAlign: "center", marginTop: "20rem"}}>
         <h1 style={{color: "white", fontSize: "64px"}}>Tavern</h1>
         <p style={{color: "white", fontSize: "24px", margin: "0 auto", width: "50%"}}>
-          A Software Development Production House focused in React Native building tvOS, Smart Watch and Mobile Apps.
+          A Software Development Production House focused in React Native tvOS + mobile apps.
         </p>
         </div>
       </div>
@@ -49,7 +50,7 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>We build a wide range of production apps built with the latest and most reliable technologies to get your business ahead of the curve.</p>
+        <p>Tavern builds a wide range of production apps built with the latest and most reliable technologies to get your business ahead of the curve.</p>
         <p>
           We work with you every step of the way, from UI Design, branding, and complete, dynamic, customer-friendly TVos, Smart Watch and Mobile Apps to deployment and continued maintenance.  
         </p>

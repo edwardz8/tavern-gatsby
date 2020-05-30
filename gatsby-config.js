@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `The Tavern Dev House Company Blog`,
+    title: `Tavern Dev House Company Blog`,
     author: `Zach Edwards`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://taverndevhouse.netlify.app/`,
     social: {
-      twitter: `taverndev`,
+      twitter: `edwardz_8`,
     },
   },
   plugins: [

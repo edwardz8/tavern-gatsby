@@ -45,7 +45,7 @@ class IndexPage extends React.Component {
         <div style={{display: "flex", justifyContent: "space-around"}}>
         <div>
         <h1>
-          Philosophy{" "}
+          Why Choose Us?{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>

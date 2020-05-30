@@ -58,7 +58,7 @@ class IndexPage extends React.Component {
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
         </div>
-        <img style={{ margin: 0, width: "300px", height: "100%" }} src="./apple-watch.png" alt="Gatsby Scene" />
+        {/* <img style={{ margin: 0, width: "300px", height: "100%" }} src="./apple-watch.png" alt="Gatsby Scene" /> */}
         </div>
 
 
